@@ -20,3 +20,7 @@ vcell = "0.1.2"
 [dependencies.embedded-hal]
 version = "0.2.3"
 features = ["unproven"]
+
+[dev-dependencies]
+panic-halt = "0.2.0"
+riscv-rt = "0.7"
