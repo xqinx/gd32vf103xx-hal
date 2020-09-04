@@ -24,3 +24,4 @@ features = ["unproven"]
 [dev-dependencies]
 panic-halt = "0.2.0"
 riscv-rt = "0.7"
+menu = "0.3.2"
